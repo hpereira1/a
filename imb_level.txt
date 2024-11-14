@@ -1,0 +1,17 @@
+﻿/SiMCosta Imbituba
+/latitude = -28.231
+/longitude = -48.65
+/Acknowledging or Crediting SiMCosta as Information Source : (Product or data name) courtesy of the Brazilian Coastal Monitoring System - SiMCosta  (www.simcosta.furg.br)
+/Disclaimer: All products published on this website are not intended to be used for navigational or operational purposes.
+
+/Sensor Mount = Fixed
+/Todas as medidas de nível do mar estão referenciadas ao instrumento. O zero do instrumento é o centro de fase do emissor de microondas. Futuramente esse referencial local será acoplado a  Rede Altimétrica de Alta Precisão (RAAP/IBGE).
+/All sea level measurements are referenced to the instrument. The instrument zero is the phase center of the microwave emitter. In the future this local reference will be coupled to the High Precision Altimetric Network (RAAP / IBGE).
+
+
+/Parameters:
+/water_l1: Instantaneous Level Variation (cm) - Instrument Zero
+/avg_water_l1: Average Level Variation (cm) - Instrument Zero
+
+/Missing = NULL
+/YEAR MONTH DAY HOUR MINUTE SECOND = Date/Time Data Acquisition (UTC)
